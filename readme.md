@@ -1,5 +1,6 @@
 # Explorador de Datos de Vehículos
 
+Este es mi proyecto perteneciente al **Sprint N° 7** de mi formación como **Analista de Datos Jr. en TripleTen**.  
 Este proyecto es una aplicación web interactiva desarrollada con **Streamlit**. Permite explorar datos de vehículos usados en Estados Unidos a partir de un archivo CSV. Incluye visualizaciones como histogramas de los odómetros de los vehículos.
 
 ## 📁 Descripción
@@ -20,3 +21,4 @@ Las gráficas están hechas con `plotly.express`, lo que proporciona una visuali
 - Pandas
 - Plotly Express
 - Streamlit
+
